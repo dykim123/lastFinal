@@ -216,7 +216,7 @@
 		
 	</dependencies>
 	
-		<!-- repositories : repository 엘리먼트를 등록하기 위한 상위 엘리먼트 -->
+		<!-- repositories : repository 엘리먼트를 등록하기 위한 상위 엘리먼트! -->
 	<repositories>
 		<!-- repository : 라이브러리를 제공하는 저장소를 메이븐에 추가하기 위한 엘리먼트 -->
 		<repository>
