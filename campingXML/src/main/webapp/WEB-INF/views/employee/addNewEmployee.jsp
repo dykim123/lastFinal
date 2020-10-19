@@ -10,7 +10,7 @@
 <title>Blank page | Nifty - Responsive admin template.</title>
 
 
-<!--STYLESHEET-->
+<!--STYLESHEET ㅋㅋㅋㅋ-->
 <!--=================================================-->
 
 <!--Open Sans Font [ OPTIONAL ] -->
